@@ -34,7 +34,10 @@ SD RAWR is a Windows utility for creating, splitting, combining, and mounting vi
 
 ImDisk is required for mounting RAW images and is not bundled with SD RAWR.
 
-The SD RAWR interface is in English. Build-script messages and runtime logs are in Japanese.
+
+## Usage:
+Run the build_exe.bat to build the exe yourself with the source code or use the exe provided. Will need admin privileges. If you got a problem send your log.txt
+
 
 
 # Credits
