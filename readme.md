@@ -12,7 +12,7 @@ SD RAWR is a Windows utility for creating, splitting, combining, and mounting vi
 ## Features
 
 - Create FAT16/FAT32 `.raw` virtual SD card images from a folder
-- Automatically choose the smallest supported SD card size that fits the source data
+- Automatically choose the smallest supported SD card size that fits the source data (approximate)
 - Copy the selected folder's contents directly into the root of the virtual SD card
 - Split RAW images into 4000 MiB parts such as `.raw.001`, `.raw.002`, and so on (for RiftWiis FAT32 format)
 - Split existing premade `.raw` files
@@ -23,8 +23,6 @@ SD RAWR is a Windows utility for creating, splitting, combining, and mounting vi
 - Show currently mounted ImDisk virtual drives
 - Open mounted drives directly in Windows Explorer
 - Live `logs.txt` file beside `SDRAWR.exe`
-- Always requests administrator privileges when the packaged EXE starts
-- Custom SD RAWR branding and Windows EXE icon
 
 ## Supported Virtual SD Sizes
 
