@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="sdrawr.png" alt="sd rawr">
+</p>
+
+
 # SD RAWR
 
 <p align="center">
