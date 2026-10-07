@@ -42,9 +42,7 @@ Run the build_exe.bat to build the exe yourself with the source code or use the 
 
 ### SD RAWR
 
-Application design, source code, UI, RAW creation/splitting/combining workflow, and Windows packaging.
-
-The SD RAWR logo included with the project was supplied by the project owner and is used for the application window icon, executable icon, and in-app branding.
+Me. I. For making this shit.
 
 ### pyfatfs
 
