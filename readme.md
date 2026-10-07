@@ -84,37 +84,24 @@ ImDisk is **not included in the SD RAWR distribution**. Users install it separat
 
 ImDisk contains code under multiple license terms. Its main source includes a permissive MIT-style license, while the project also contains GPL-licensed components and other third-party code. Refer to the ImDisk repository's `LICENSE.md` and source notices for the exact terms that apply to the version you install.
 
-## SD RAWR License
+## License
 
-SD RAWR itself is released under the **MIT License**.
+SD RAWR is open-source software released under the MIT License.
 
-Copyright (c) 2026 SD RAWR contributors
+See `LICENSE.txt` for the full license text.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Disclaimer
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+SD RAWR is provided as-is and without warranty.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software creates, modifies, splits, combines, and mounts disk image files.
+Incorrect use, software bugs, filesystem corruption, interrupted operations, or
+third-party driver behavior may result in data loss or damaged image files.
 
-## Third-Party Licensing
+Always keep backups of important data before using SD RAWR.
 
-The MIT license above applies to **SD RAWR's own source code only**.
+The authors and contributors are not responsible for data loss, corrupted files,
+system damage, lost work, or other damages resulting from the use or misuse of
+this software.
 
-Third-party libraries and external tools keep their own licenses. Distributing
-SD RAWR does not relicense `pyfatfs`, `PyFilesystem2`, `PyInstaller`, ImDisk,
-or any other third-party component.
-
-If you redistribute a build containing third-party components, keep the
-required copyright notices and license terms for those components.
+Use SD RAWR at your own risk.
