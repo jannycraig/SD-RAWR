@@ -1,7 +1,7 @@
 # SD RAWR
 
 <p align="center">
-  <img src="SHOWCASE.png" alt="sd rawr int" width="320">
+  <img src="SHOWCASE.png" alt="sd rawr int">
 </p>
 
 SD RAWR is a Windows utility for creating, splitting, combining, and mounting virtual SD card RAW images, mainly to be used with RiftWii, Dolphin and also Smash Brawl Mods
